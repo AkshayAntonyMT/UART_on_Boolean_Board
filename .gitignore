@@ -1,0 +1,74 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.webtalk/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/ip/
+*.srcs/sources_1/bd/
+*.xpr
+*.xpa
+*.Xil
+*.xml
+*.tmp
+*.wdb
+*.pb
+*.dcp
+*.backup.jou
+*.backup.log
+*.backup.tcl
+
+# TCL auto-saved history
+vivado*.jou
+vivado*.log
+vivado*.str
+
+# IP or Block Design generated files
+*.bd
+*.xci
+*.xsa
+*.ltx
+*.svf
+*.bit
+*.bin
+
+# Temporary & OS files
+*.swp
+*.swo
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Vivado HLS
+.hls/
+*.hls/
+*.hpf
+*.hpr
+*.prj
+*.tar
+
+# Simulation files
+*.vcd
+*.vpd
+*.wlf
+
+# Generated scripts or reports
+*.rpt
+*.tcl
+*.csv
+
+# Vivado SDK / Vitis files (if used)
+.sdk/
+.vscode/
+.metadata/
+
+# Optional: Ignore constraint & source if they're generated
+# Comment out if you manually edit constraints or HDL here
+# *.xdc
+# *.v
+# *.sv
